@@ -20,6 +20,6 @@ function Header() {
 
 export default Header;
 
-const HeaderContainer = styled.div``
-const HeaderLeft = styled.div``
-const HeaderAvatar = styled(Avatar)``
+const HeaderContainer = styled.div``;
+const HeaderLeft = styled.div``;
+const HeaderAvatar = styled(Avatar)``;
